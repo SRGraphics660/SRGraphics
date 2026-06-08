@@ -1,0 +1,11 @@
+.portfolio-item {
+    position: relative;
+    overflow: hidden;
+}
+.portfolio-item img {
+    width: 100%;
+    transition: transform 0.3s;
+}
+.portfolio-item:hover img {
+    transform: scale(1.1);
+}

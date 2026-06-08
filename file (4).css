@@ -1,0 +1,7 @@
+.timeline {
+    list-style: none;
+    padding: 0;
+}
+.timeline-item {
+    margin: 20px 0;
+}

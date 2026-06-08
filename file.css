@@ -1,0 +1,27 @@
+#hero {
+    background: #0f0f0f;
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+.hero-content {
+    text-align: center;
+}
+.cta-button {
+    background: #ff2b2b;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+.cta-button:hover {
+    background: #e41e1e;
+}
+.floating-shapes {
+    /* CSS animation for floating shapes or particles */
+}
